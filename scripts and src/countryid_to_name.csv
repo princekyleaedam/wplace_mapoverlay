@@ -1,0 +1,483 @@
+1,Afghanistan
+2,Albania
+3,Algeria
+4,American Samoa
+5,Andorra
+6,Angola
+7,Anguilla
+8,Antarctica
+9,Antigua and Barbuda
+10,Argentina
+11,Armenia
+12,Aruba
+13,Australia
+14,Austria
+15,Azerbaijan
+16,Bahamas
+17,Bahrain
+18,Bangladesh
+19,Barbados
+20,Belarus
+21,Belgium
+22,Belize
+23,Benin
+24,Bermuda
+25,Bhutan
+26,Bolivia
+27,Bonaire
+28,Bosnia and Herzegovina
+29,Botswana
+30,Bouvet Island
+31,Brazil
+32,British Indian Ocean Territory
+33,Brunei Darussalam
+34,Bulgaria
+35,Burkina Faso
+36,Burundi
+37,Cabo Verde
+38,Cambodia
+39,Cameroon
+40,Canada
+41,Cayman Islands
+42,Central African Republic
+43,Chad
+44,Chile
+45,China
+46,Christmas Island
+47,Cocos (Keeling) Islands
+48,Colombia
+49,Comoros
+50,Congo
+51,Cook Islands
+52,Costa Rica
+53,Côte d'Ivoire
+54,Croatia
+55,Cuba
+56,Curaçao
+57,Cyprus
+58,Czechia
+59,Denmark
+60,Djibouti
+61,Dominica
+62,Dominican Republic
+63,Ecuador
+64,Egypt
+65,El Salvador
+66,Equatorial Guinea
+67,Eritrea
+68,Estonia
+69,Eswatini
+70,Ethiopia
+71,Falkland Islands (Malvinas)
+72,Faroe Islands
+73,Fiji
+74,Finland
+75,France
+76,French Guiana
+77,French Polynesia
+78,French Southern Territories
+79,Gabon
+80,Gambia
+81,Georgia
+82,Germany
+83,Ghana
+84,Gibraltar
+85,Greece
+86,Greenland
+87,Grenada
+88,Guadeloupe
+89,Guam
+90,Guatemala
+91,Guernsey
+92,Guinea
+93,Guinea-Bissau
+94,Guyana
+95,Haiti
+96,Heard Island and McDonald Islands
+97,Honduras
+98,Hong Kong
+99,Hungary
+100,Iceland
+101,India
+102,Indonesia
+103,Iran
+104,Iraq
+105,Ireland
+106,Isle of Man
+107,Israel
+108,Italy
+109,Jamaica
+110,Japan
+111,Jersey
+112,Jordan
+113,Kazakhstan
+114,Kenya
+115,Kiribati
+116,Kosovo
+117,Kuwait
+118,Kyrgyzstan
+119,Laos
+120,Latvia
+121,Lebanon
+122,Lesotho
+123,Liberia
+124,Libya
+125,Liechtenstein
+126,Lithuania
+127,Luxembourg
+128,Macao
+129,Madagascar
+130,Malawi
+131,Malaysia
+132,Maldives
+133,Mali
+134,Malta
+135,Marshall Islands
+136,Martinique
+137,Mauritania
+138,Mauritius
+139,Mayotte
+140,Mexico
+141,Micronesia
+142,Moldova
+143,Monaco
+144,Mongolia
+145,Montenegro
+146,Montserrat
+147,Morocco
+148,Mozambique
+149,Myanmar
+150,Namibia
+151,Nauru
+152,Nepal
+153,Netherlands
+154,New Caledonia
+155,New Zealand
+156,Nicaragua
+157,Niger
+158,Nigeria
+159,Niue
+160,Norfolk Island
+161,North Korea
+162,North Macedonia
+163,Northern Mariana Islands
+164,Norway
+165,Oman
+166,Pakistan
+167,Palau
+168,Palestine
+169,Panama
+170,Papua New Guinea
+171,Paraguay
+172,Peru
+173,Philippines
+174,Pitcairn
+175,Poland
+176,Portugal
+177,Puerto Rico
+178,Qatar
+179,Republic of the Congo
+180,Réunion
+181,Romania
+182,Russia
+183,Rwanda
+184,Saint Barthélemy
+185,Saint Helena
+186,Saint Kitts and Nevis
+187,Saint Lucia
+188,Saint Martin (French part)
+189,Saint Pierre and Miquelon
+190,Saint Vincent and the Grenadines
+191,Samoa
+192,San Marino
+193,Sao Tome and Principe
+194,Saudi Arabia
+195,Senegal
+196,Serbia
+197,Seychelles
+198,Sierra Leone
+199,Singapore
+200,Sint Maarten (Dutch part)
+201,Slovakia
+202,Slovenia
+203,Solomon Islands
+204,Somalia
+205,South Africa
+206,South Georgia and the South Sandwich Islands
+207,South Korea
+208,South Sudan
+209,Spain
+210,Sri Lanka
+211,Sudan
+212,Suriname
+213,Svalbard and Jan Mayen
+214,Sweden
+215,Switzerland
+216,Syrian Arab Republic
+217,Taiwan
+218,Tajikistan
+219,Tanzania
+220,Thailand
+221,Timor-Leste
+222,Togo
+223,Tokelau
+224,Tonga
+225,Trinidad and Tobago
+226,Tunisia
+227,Türkiye
+228,Turkmenistan
+229,Turks and Caicos Islands
+230,Tuvalu
+231,Uganda
+232,Ukraine
+233,United Arab Emirates
+234,United Kingdom
+235,United States
+236,United States Minor Outlying Islands
+237,Uruguay
+238,Uzbekistan
+239,Vanuatu
+240,Vatican City
+241,Venezuela
+242,Viet Nam
+243,Virgin Islands
+244,Virgin Islands
+245,Wallis and Futuna
+246,Western Sahara
+247,Yemen
+248,Zambia
+249,Zimbabwe
+250,Åland Islands
+251,Canary Islands
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
